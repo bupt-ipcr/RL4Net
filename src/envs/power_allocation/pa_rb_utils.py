@@ -3,8 +3,8 @@
 """
 @author: Jiawei Wu
 @create time: 1970-01-01 08:00
-@edit time: 2020-12-07 11:26
-@FilePath: /PA/pa_rb_utils.py
+@edit time: 2021-01-25 14:08
+@file: /RL4Net/src/envs/power_allocation/pa_rb_utils.py
 @desc: 
 """
 

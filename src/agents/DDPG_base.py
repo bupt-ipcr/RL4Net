@@ -3,8 +3,8 @@
 """
 @author: Jiawei Wu
 @create time: 2019-12-04 10:36
-@edit time: 2020-04-07 19:55
-@FilePath: /vvlab/agents/DDPG_base.py
+@edit time: 2021-01-25 14:10
+@file: /RL4Net/src/agents/DDPG_base.py
 """
 import os
 import torch.nn as nn

@@ -3,8 +3,8 @@
 """
 @author: Jiawei Wu
 @create time: 2020-04-07 19:52
-@edit time: 2020-04-07 19:54
-@FilePath: /vvlab/utils/update.py
+@edit time: 2021-01-25 14:04
+@file: /RL4Net/src/utils/update.py
 @desc: update funcs
 """
 

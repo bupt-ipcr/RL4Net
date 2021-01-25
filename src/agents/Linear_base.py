@@ -3,8 +3,8 @@
 """
 @create time: 2019-11-22 10:19
 @author: Jiawei Wu
-@edit time: 2020-01-15 16:05
-@file: /linear_agent.py
+@edit time: 2021-01-25 14:10
+@file: /RL4Net/src/agents/Linear_base.py
 """
 
 import numpy as np

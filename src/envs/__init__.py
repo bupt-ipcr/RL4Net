@@ -3,7 +3,7 @@
 """
 @author: Jiawei Wu
 @create time: 2019-12-06 23:15
-@edit time: 2020-10-06 16:19
+@edit time: 2021-01-25 14:07
 @desc: envs的init文件
 """
 
@@ -24,4 +24,8 @@ register(
 register(
     id='PA-v0',
     entry_point='vvlab.envs.power_allocation.pa_env:PAEnv',
+)
+register(
+    id='PA-v1',
+    entry_point='vvlab.envs.power_allocation.pa_rb_env:PAEnv',
 )

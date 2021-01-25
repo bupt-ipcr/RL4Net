@@ -3,8 +3,8 @@
 """
 @create time: 2019-11-22 15:01
 @author: Jiawei Wu
-@edit time: 2019-11-26 16:16
-@file: /maze.py
+@edit time: 2021-01-25 14:06
+@file: /RL4Net/src/envs/maze_env.py
 """
 
 import numpy as np

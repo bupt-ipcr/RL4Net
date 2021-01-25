@@ -3,8 +3,8 @@
 """
 @author: Jiawei Wu
 @create time: 2020-04-05 19:48
-@edit time: 2020-04-07 19:58
-@FilePath: /vvlab/utils/ReplayBuffer.py
+@edit time: 2021-01-25 14:04
+@file: /RL4Net/src/utils/ReplayBuffer.py
 @desc: 经验回放池
 """
 import numpy as np

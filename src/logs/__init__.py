@@ -3,7 +3,7 @@
 """
 @author: Jiawei Wu
 @create time: 2020-04-06 16:28
-@edit time: 2020-04-06 16:28
-@FilePath: /vvlab/logs/__init__.py
+@edit time: 2021-01-25 14:06
+@file: /RL4Net/src/logs/__init__.py
 @desc: init file of log
 """

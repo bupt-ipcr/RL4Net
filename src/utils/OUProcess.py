@@ -3,8 +3,8 @@
 """
 @author: Jiawei Wu
 @create time: 2020-04-06 15:36
-@edit time: 2020-04-06 15:37
-@FilePath: /vvlab/utils/OUProcess.py
+@edit time: 2021-01-25 14:05
+@file: /RL4Net/src/utils/OUProcess.py
 @desc:
 """
 

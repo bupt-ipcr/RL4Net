@@ -3,7 +3,7 @@
 """
 @author: Jiawei Wu
 @create time: 2019-12-06 23:23
-@edit time: 2019-12-07 20:14
+@edit time: 2021-01-25 14:06
 @desc: Critic网络。
 其特点是只需要一个输出（q值），且不需要softmax
 """

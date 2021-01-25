@@ -3,7 +3,7 @@
 """
 @author: Jiawei Wu
 @create time: 2019-12-07 19:53
-@edit time: 2019-12-07 19:59
+@edit time: 2021-01-25 14:06
 @desc: DQN 使用的网络结构，其特点是输出各个离散动作值的value，
 输出前会经过一个softmax函数
 """

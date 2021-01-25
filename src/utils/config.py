@@ -3,8 +3,8 @@
 """
 @author: Jiawei Wu
 @create time: 2020-04-05 19:45
-@edit time: 2020-04-05 20:43
-@FilePath: /vvlab/utils/config.py
+@edit time: 2021-01-25 14:05
+@file: /RL4Net/src/utils/config.py
 @desc: config file
 """
 
