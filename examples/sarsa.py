@@ -3,13 +3,13 @@
 """
 @create time: 2019-11-21 11:17
 @author: Jiawei Wu
-@edit time: 2020-09-25 16:12
-@FilePath: /vvlab/examples/sarsa.py
+@edit time: 2021-01-25 14:13
+@file: /RL4Net/examples/sarsa.py
 """
 
 import time
 import gym
-from vvlab.agents import LinearBase
+from rl4net.agents import LinearBase
 
 
 class Sarsa(LinearBase):

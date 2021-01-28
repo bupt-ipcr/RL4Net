@@ -3,15 +3,15 @@
 """
 @author: Jiawei Wu
 @create time: 2019-12-07 20:17
-@edit time: 2020-01-15 17:00
-@file: /examples/dqn.py
+@edit time: 2021-01-25 14:13
+@file: /RL4Net/examples/dqn.py
 """
 import torch
 import numpy as np
 from functools import reduce
 import gym
-from vvlab.agents import DQNBase
-from vvlab.models import SimpleDQNNet
+from rl4net.agents import DQNBase
+from rl4net.models import SimpleDQNNet
 from torch.utils.tensorboard import SummaryWriter
 CUDA = torch.cuda.is_available()
 

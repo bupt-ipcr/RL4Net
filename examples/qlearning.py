@@ -9,7 +9,7 @@
 
 import time
 import gym
-from vvlab.agents import LinearBase
+from rl4net.agents import LinearBase
 
 
 class QLearning(LinearBase):

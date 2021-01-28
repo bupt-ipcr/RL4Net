@@ -3,8 +3,8 @@
 """
 @author: Jiawei Wu
 @create time: 2019-11-25 11:08
-@edit time: 2020-11-04 11:31
-@FilePath: /vvlab/setup.py
+@edit time: 2021-01-25 14:36
+@file: /RL4Net/setup.py
 """
 
 # Note: To use the 'upload' functionality of this file, you must:
@@ -18,13 +18,13 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'vvlab'
-DESCRIPTION = 'Reinforcement Learning Tools'
+NAME = 'rl4net'
+DESCRIPTION = 'Reinforcement Learning Tools for Network optimization'
 URL = 'https://github.com/LampV/Reinforcement-Learning'
 EMAIL = '13260322877@163.com'
 AUTHOR = 'Jiawei Wu', 'Yuqian Song'
 REQUIRES_PYTHON = '>=3.6.0'
-VERSION = '0.2.4'
+VERSION = None
 
 # What packages are required for this module to be executed?
 REQUIRED = [
@@ -55,7 +55,7 @@ except FileNotFoundError:
 # Load the package's __version__.py module as a dictionary.
 about = {}
 if not VERSION:
-    project_slug = NAME.lower().replace("-", "_").replace(" ", "_")
+    project_slug = 'src'.lower().replace("-", "_").replace(" ", "_")
     with open(os.path.join(here, project_slug, '__version__.py')) as f:
         exec(f.read(), about)
 else:
