@@ -41,5 +41,5 @@ jobs:
       run: |
         pip install pytest
         # install power allocation dependency
-        pip install -r rl4net/envs/power_allocation/requirements.txt
+        pip install -r src/envs/power_allocation/requirements.txt
         pytest
