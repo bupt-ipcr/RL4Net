@@ -4,7 +4,7 @@
 @author: Jiawei Wu
 @create time: 2020-09-25 11:20
 @edit time: 2021-01-25 14:08
-@file: /RL4Net/src/envs/power_allocation/pa_env.py
+@file: /RL4Net/rl4net/envs/power_allocation/pa_env.py
 @desc: An enviornment for power allocation in d2d and BS het-nets.
 
 Path_loss is 114.8 + 36.7*np.log10(d), follow 3GPP TR 36.873, d is

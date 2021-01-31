@@ -4,7 +4,7 @@
 @create time: 2019-11-22 10:19
 @author: Jiawei Wu
 @edit time: 2021-01-25 14:10
-@file: /RL4Net/src/agents/Linear_base.py
+@file: /RL4Net/rl4net/agents/Linear_base.py
 """
 
 import numpy as np

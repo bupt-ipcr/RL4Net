@@ -4,7 +4,7 @@
 @author: Jiawei Wu
 @create time: 2020-04-07 17:02
 @edit time: 2021-01-25 14:06
-@file: /RL4Net/src/logs/assamble.py
+@file: /RL4Net/rl4net/logs/assamble.py
 @desc:
 """
 

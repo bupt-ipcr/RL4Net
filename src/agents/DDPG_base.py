@@ -4,7 +4,7 @@
 @author: Jiawei Wu
 @create time: 2019-12-04 10:36
 @edit time: 2021-01-25 14:10
-@file: /RL4Net/src/agents/DDPG_base.py
+@file: /RL4Net/rl4net/agents/DDPG_base.py
 """
 import os
 import torch.nn as nn

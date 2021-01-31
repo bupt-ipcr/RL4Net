@@ -4,7 +4,7 @@
 @author: Jiawei Wu
 @create time: 2020-04-05 19:48
 @edit time: 2021-01-25 14:04
-@file: /RL4Net/src/utils/ReplayBuffer.py
+@file: /RL4Net/rl4net/utils/ReplayBuffer.py
 @desc: 经验回放池
 """
 import numpy as np

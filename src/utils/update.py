@@ -4,7 +4,7 @@
 @author: Jiawei Wu
 @create time: 2020-04-07 19:52
 @edit time: 2021-01-25 14:04
-@file: /RL4Net/src/utils/update.py
+@file: /RL4Net/rl4net/utils/update.py
 @desc: update funcs
 """
 

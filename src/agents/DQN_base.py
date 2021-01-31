@@ -4,7 +4,7 @@
 @author: Jiawei Wu
 @create time: 2019-11-17 11:23
 @edit time: 2021-01-25 14:10
-@file: /RL4Net/src/agents/DQN_base.py
+@file: /RL4Net/rl4net/agents/DQN_base.py
 @desc: 创建DQN对象
 """
 import torch

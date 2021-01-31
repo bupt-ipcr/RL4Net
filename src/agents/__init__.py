@@ -4,7 +4,7 @@
 @author: Jiawei Wu
 @create time: 2019-12-06 23:16
 @edit time: 2021-01-25 14:10
-@file: /RL4Net/src/agents/__init__.py
+@file: /RL4Net/rl4net/agents/__init__.py
 """
 
 
